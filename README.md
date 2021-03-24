@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kitapawel
+- 👀 I’m interested in game design, programming, Unity, C#.
+- 🌱 I’m currently learning Unity, C#, general programming, pixel art.
+- 💞️ I’m looking to collaborate on game development projects.
+- 📫 gamedevstash@gmail.com
